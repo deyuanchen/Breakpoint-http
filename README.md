@@ -233,13 +233,8 @@ Spring Boot用来简化Spring应用的初始搭建以及开发过程，一个约
     }
 ```    
 
-<a name="总结"></a>
-## 总结
-&emsp;&emsp;身为一个具有拖延症的程序猿，写个文档及其不容易，这方面还是优待加强，写代码时间都还没写这个文档长，并且写了那么久还那么烂的文档。实在抱歉，望谅解。  
-&emsp;&emsp;项目的Bug和改进点，可在评论去留言或者在GitHub或者OSChina上以issue的方式直接提交给我，谢谢大家。
 
 ##参考文献
 
 [1]http://fex.baidu.com/webuploader/
 [2]http://www.zuidaima.com/blog/2819949848316928.htm  
-[3]https://my.oschina.net/feichexia/blog/212318
